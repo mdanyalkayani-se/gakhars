@@ -48,10 +48,17 @@ If you'd like to learn more, collaborate on similar projects, or have verified d
 
 ---
 
-## 🛡️ License
+## 📄 License & Usage
 
-This project is not open source at this time.
-All content is presented for cultural preservation and educational use.
+This project is part of a **personal portfolio showcase**.
+It is **not open source**, and the **source code is private**.
+
+The project is available for **inspiration and demonstration purposes only**.
+Please do **not copy, reuse, or redistribute** any part of the implementation without permission.
+
+> All rights reserved unless explicitly granted.
+
+If you're interested in **collaborating or building something similar**, feel free to reach out.
 
 ---
 
